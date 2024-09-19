@@ -16,20 +16,20 @@ export default function Home({ githubProfileData }) {
 		<div>
 			<SEO
 				data={{
-					title: "Ashwani Sahu",
+					title: "Ashwani Kumar",
 					description:
-						"A passionate Full Stack Web Developer",
+						"A passionate Front-End Web Developer",
 					image: "",
-					url: "https://ashwanisahu.vercel.app/",
+					url: "https://vercel.com/ashwani-kumars-projects-9c7fa6ee/",
 					keywords: [
 						"Ashwani",
-						"Ashwani Sahu",
+						"Ashwani Kumar",
 						"Portfolio",
 						"Ashwani Portfolio ",
-						"Ashwani Sahu Portfolio",
+						"Ashwani kumar Portfolio",
 						"web developer",
-						"full stack",
-						"full stack web developer",
+						"Frontend",
+						"frontend web developer",
 						"nodejs ",
 						"expressjs",
 						"reactjs ",
